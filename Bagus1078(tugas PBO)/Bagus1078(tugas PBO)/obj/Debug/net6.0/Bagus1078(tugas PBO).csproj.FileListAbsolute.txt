@@ -1,0 +1,14 @@
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\bin\Debug\net6.0\Bagus1078(tugas PBO).exe
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\bin\Debug\net6.0\Bagus1078(tugas PBO).deps.json
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\bin\Debug\net6.0\Bagus1078(tugas PBO).runtimeconfig.json
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\bin\Debug\net6.0\Bagus1078(tugas PBO).dll
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\bin\Debug\net6.0\Bagus1078(tugas PBO).pdb
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\obj\Debug\net6.0\Bagus1078(tugas PBO).GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\obj\Debug\net6.0\Bagus1078(tugas PBO).AssemblyInfoInputs.cache
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\obj\Debug\net6.0\Bagus1078(tugas PBO).AssemblyInfo.cs
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\obj\Debug\net6.0\Bagus1078(tugas PBO).csproj.CoreCompileInputs.cache
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\obj\Debug\net6.0\Bagus1078(tugas PBO).dll
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\obj\Debug\net6.0\refint\Bagus1078(tugas PBO).dll
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\obj\Debug\net6.0\Bagus1078(tugas PBO).pdb
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\obj\Debug\net6.0\Bagus1078(tugas PBO).genruntimeconfig.cache
+E:\semester 3\pbo\Bagus1078(tugas PBO)\Bagus1078(tugas PBO)\obj\Debug\net6.0\ref\Bagus1078(tugas PBO).dll
